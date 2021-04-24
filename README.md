@@ -6,7 +6,7 @@ Vũ Hoàng Anh - 20020362
 2. Bước 2: Cài đặt  
 + Giải nén  
   Bấm *chuột phải* vào file vừa tải rồi chọn *Extract to install game*.  
-  ![Screenshot (53)](https://user-images.githubusercontent.com/79706035/115964632-9d00b200-a54f-11eb-9464-d2b0fc85d485.png)
+  ![Screenshot (53)](https://user-images.githubusercontent.com/79706035/115964632-9d00b200-a54f-11eb-9464-d2b0fc85d485.png)  
     *Nếu máy bạn chưa có WinRAR, tải [tại đây](https://download.com.vn/winrar-5250)*
 + Vào folder vừa giải nén chọn *setup*.  
 !(https://drive.google.com/file/d/152sNc1fZnAadqQdKM4M9TytjzuuDjVgu/view?usp=sharing)   
