@@ -38,11 +38,11 @@ Vũ Hoàng Anh - 20020362
 + Sang trái: Di chuyển con trỏ chuột lại gần nhân vật game từ bên phải.
 + Sang phải: Di chuyển con trỏ chuột lại gần nhân vật game từ bên trái.
 + Nhảy:  
-    Nhảy thấp: Di chuyển con trỏ chuột lại gần nhân vật game từ dưới.  
-    Nhảy cao: Di chuyển con trỏ chuột lại sát gần chân của nhân vật game từ trên xuống.  
-    Tạm dừng: ấn ‘P’.  
-    Restart: ấn ‘R’.  
-    Mở Tutorial: ấn 'T'.  
-    Exit: ấn ‘ESC’.  
-    
+    *Nhảy thấp: Di chuyển con trỏ chuột lại gần nhân vật game từ dưới.  
+    *Nhảy cao: Di chuyển con trỏ chuột lại sát gần chân của nhân vật game từ trên xuống.  
+    *Tạm dừng: ấn ‘P’.  
+    *Restart: ấn ‘R’.  
+    *Mở Tutorial: ấn 'T'.  
+    *Exit: ấn ‘ESC’.  
+
 **LƯU Ý: Phải ăn hết vàng.**
