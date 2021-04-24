@@ -23,8 +23,7 @@ Vũ Hoàng Anh - 20020362
 + Sau khi cài xong, chọn *Close* để quá trình hoàn tất.  
 ![Screenshot (61)](https://user-images.githubusercontent.com/79706035/115964865-a50d2180-a550-11eb-869c-596d63a36c3a.png)
 3. Bước 3: Chơi.
-+ Nhấn vào biểu tượng game trên Desktop hoặc vào folder vừa cài đặt và chọn vào file như dưới để chơi.
-+ ok  
++ Nhấn vào biểu tượng game trên Desktop hoặc vào folder vừa cài đặt và chọn vào file như dưới để chơi.  
 ![Screenshot (63)](https://user-images.githubusercontent.com/79706035/115964787-4647a800-a550-11eb-9ee5-c5206ca9bb87.png)
 ![Screenshot (62)](https://user-images.githubusercontent.com/79706035/115964791-48116b80-a550-11eb-9444-99f5aaeb5b2b.png)
 ## Cách chơi
