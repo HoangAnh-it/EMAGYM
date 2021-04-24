@@ -19,7 +19,7 @@ Vũ Hoàng Anh - 20020362
 + Chọn *Brown* để lấy vị trí lưu sau đó chọn *Next*.  
 ![Screenshot (58)](https://user-images.githubusercontent.com/79706035/115964752-1bf5ea80-a550-11eb-8141-25bf6900adb7.png)  
 + Chọn tiếp *Next* để bắt đầu cài đặt. Nếu hệ thống hỏi, chọn *Yes*.  
-![Screenshot (59)](https://user-images.githubusercontent.com/79706035/115964766-29ab7000-a550-11eb-92eb-13aca01dbb1d.png)  ![Screenshot (61)](https://user-images.githubusercontent.com/79706035/115964780-3def6d00-a550-11eb-96eb-4a4b717b597c.png)  
+![Screenshot (59)](https://user-images.githubusercontent.com/79706035/115964766-29ab7000-a550-11eb-92eb-13aca01dbb1d.png)
 + Sau khi cài xong, chọn *Close* để quá trình hoàn tất.  
 ![Uploading Screenshot (61).png…]()  
 3. Bước 3: Chơi.
