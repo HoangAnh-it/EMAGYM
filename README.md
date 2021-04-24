@@ -2,7 +2,7 @@
 Vũ Hoàng Anh - 20020362
 
 ## Cách cài đặt game
-1. Bước 1: Tải file cài đặt game [tại đây](https://drive.google.com/file/d/1j9rQl7O29wvkbtjopugyc-UQOtH6QHhM/view?usp=sharing)   
+1. Bước 1: Tải file cài đặt game [tại đây](https://drive.google.com/file/d/1qZOrX36vLcSVeaXSq8b-7_3EsBHtcim4/view?usp=sharing)   
 2. Bước 2: Cài đặt
 + Giải nén  
   Bấm *chuột phải* vào file vừa tải rồi chọn *Extract to install game*.  
