@@ -16,7 +16,7 @@ Vũ Hoàng Anh - 20020362
 ![Screenshot (56)](https://user-images.githubusercontent.com/79706035/115964734-05e82a00-a550-11eb-9cfd-28ee3693d207.png)  
 + Sau đó sẽ có giao diện như sau, chọn *Next*.  
 ![Screenshot (57)](https://user-images.githubusercontent.com/79706035/115964745-11d3ec00-a550-11eb-8d0d-2e3ffd28c6cb.png)  
-+ Chọn *Brown* để lấy vị trí lưu sau đó chọn *Next*.  
++ Chọn *Browse* để lấy vị trí lưu sau đó chọn *Next*.  
 ![Screenshot (58)](https://user-images.githubusercontent.com/79706035/115964752-1bf5ea80-a550-11eb-8141-25bf6900adb7.png)  
 + Chọn tiếp *Next* để bắt đầu cài đặt. Nếu hệ thống hỏi, chọn *Yes*.  
 ![Screenshot (59)](https://user-images.githubusercontent.com/79706035/115964766-29ab7000-a550-11eb-92eb-13aca01dbb1d.png)
