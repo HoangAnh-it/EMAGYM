@@ -35,6 +35,7 @@ Vũ Hoàng Anh - 20020362
 ![image10](https://drive.google.com/file/d/1uiThOZ7R8MfvU2Yh6j1Sfyxv12be8aoo/view?usp=sharing)   
 
 ## Cách chơi
+*Dùng chuột để điều khiển.*
 + Sang trái: Di chuyển con trỏ chuột lại gần nhân vật game từ bên phải.
 + Sang phải: Di chuyển con trỏ chuột lại gần nhân vật game từ bên trái.
 + Nhảy:  
@@ -45,4 +46,5 @@ Vũ Hoàng Anh - 20020362
     *Mở Tutorial: ấn 'T'.  
     *Exit: ấn ‘ESC’.  
 
+Vượt chướng ngại vật và tránh tất cả quái vật để thoát khỏi đây.  
 **LƯU Ý: Phải ăn hết vàng.**
