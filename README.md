@@ -3,37 +3,29 @@ Vũ Hoàng Anh - 20020362
 
 ## Cách cài đặt game
 1. Bước 1: Tải file cài đặt game [tại đây](https://drive.google.com/file/d/1gX0Af2JG1avkHUA8bQpVXD-hZZvBWAvR/view?usp=sharing)   
-2. Bước 2: Cài đặt  
+2. Bước 2: Cài đặt
 + Giải nén  
   Bấm *chuột phải* vào file vừa tải rồi chọn *Extract to install game*.  
   ![Screenshot (53)](https://user-images.githubusercontent.com/79706035/115964632-9d00b200-a54f-11eb-9464-d2b0fc85d485.png)  
     *Nếu máy bạn chưa có WinRAR, tải [tại đây](https://download.com.vn/winrar-5250)*
 + Vào folder vừa giải nén chọn *setup*.  
-!(https://drive.google.com/file/d/152sNc1fZnAadqQdKM4M9TytjzuuDjVgu/view?usp=sharing)   
-
+![Screenshot (54)](https://user-images.githubusercontent.com/79706035/115964707-efda6980-a54f-11eb-811a-21f7acaa8491.png)  
 + Chọn *Debug*.  
-![image3](https://drive.google.com/file/d/1iXZ4jqnxWjRCY9o0RJ589C7ZLJVkCE2C/view?usp=sharing)  
-
+![Screenshot (55)](https://user-images.githubusercontent.com/79706035/115964725-fbc62b80-a54f-11eb-8785-b929f60563c3.png)  
 + Chọn *setup* như dưới để bắt đầu quá trình cài đặt.  
-![image4](https://drive.google.com/file/d/1gPuRb-da7WLcRDG7FHHDT49-LJ0V_dKZ/view?usp=sharing)   
-
+![Screenshot (56)](https://user-images.githubusercontent.com/79706035/115964734-05e82a00-a550-11eb-9cfd-28ee3693d207.png)  
 + Sau đó sẽ có giao diện như sau, chọn *Next*.  
-![image5](https://drive.google.com/file/d/1364h1ksbuATYnGft3nEMtaQnH6L5Aq1e/view?usp=sharing)   
-
+![Screenshot (57)](https://user-images.githubusercontent.com/79706035/115964745-11d3ec00-a550-11eb-8d0d-2e3ffd28c6cb.png)  
 + Chọn *Brown* để lấy vị trí lưu sau đó chọn *Next*.  
-![image6](https://drive.google.com/file/d/1lGSVyVZULcvcRWTuzTpYVzc_TM-2MthY/view?usp=sharing)   
-
+![Screenshot (58)](https://user-images.githubusercontent.com/79706035/115964752-1bf5ea80-a550-11eb-8141-25bf6900adb7.png)  
 + Chọn tiếp *Next* để bắt đầu cài đặt. Nếu hệ thống hỏi, chọn *Yes*.  
-![image7](https://drive.google.com/file/d/1ElLqMg3cZsBM6zDAhAaNdht3qKzh7Ml0/view?usp=sharing)   
-
+![Screenshot (59)](https://user-images.githubusercontent.com/79706035/115964766-29ab7000-a550-11eb-92eb-13aca01dbb1d.png)  ![Screenshot (61)](https://user-images.githubusercontent.com/79706035/115964780-3def6d00-a550-11eb-96eb-4a4b717b597c.png)  
 + Sau khi cài xong, chọn *Close* để quá trình hoàn tất.  
-![image8](https://drive.google.com/file/d/1MWJRC0lWH9952EuXNeDuWzmSW1E3c_MT/view?usp=sharing)  
-
+![Uploading Screenshot (61).png…]()  
 3. Bước 3: Chơi.
 + Nhấn vào biểu tượng game trên Desktop hoặc vào folder vừa cài đặt và chọn vào file như dưới để chơi.  
-![image9](https://drive.google.com/file/d/1TX8ja91OZNWMj2FK8AjSpVYwvO7C-1q3/view?usp=sharing)  
-![image10](https://drive.google.com/file/d/1uiThOZ7R8MfvU2Yh6j1Sfyxv12be8aoo/view?usp=sharing)   
-
+![Screenshot (63)](https://user-images.githubusercontent.com/79706035/115964787-4647a800-a550-11eb-9ee5-c5206ca9bb87.png)
+![Screenshot (62)](https://user-images.githubusercontent.com/79706035/115964791-48116b80-a550-11eb-9444-99f5aaeb5b2b.png)
 ## Cách chơi
 *Dùng chuột để điều khiển.*
 + Sang trái: Di chuyển con trỏ chuột lại gần nhân vật game từ bên phải.
