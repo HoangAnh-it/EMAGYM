@@ -8,7 +8,7 @@ Vũ Hoàng Anh - 20020362
   Bấm chuột phải vào file vừa tải rồi chọn Extract to install game  
 ![image1](https://drive.google.com/file/d/11m7OIt8l9Q0MCS49qfeGMujyfgrO4Me2/view?usp=sharing)   
 
-**Nếu máy bạn chưa có WinRAR, tải [tại đây](https://download.com.vn/winrar-5250)**   
+*Nếu máy bạn chưa có WinRAR, tải [tại đây](https://download.com.vn/winrar-5250)*
 + Vào folder vừa giải nén chọn setup.  
 ![image2](https://drive.google.com/file/d/152sNc1fZnAadqQdKM4M9TytjzuuDjVgu/view?usp=sharing)   
 
