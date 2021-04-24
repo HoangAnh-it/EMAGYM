@@ -25,7 +25,7 @@ Vũ Hoàng Anh - 20020362
 3. Bước 3: Chơi.
 + Nhấn vào biểu tượng game trên Desktop hoặc vào folder vừa cài đặt và chọn vào file như dưới để chơi.  
 ![Screenshot (63)](https://user-images.githubusercontent.com/79706035/115964787-4647a800-a550-11eb-9ee5-c5206ca9bb87.png)
-![Screenshot (62)](https://user-images.githubusercontent.com/79706035/115964791-48116b80-a550-11eb-9444-99f5aaeb5b2b.png)
+![Screenshot (64)](https://user-images.githubusercontent.com/79706035/115968182-c2e28280-a560-11eb-8ca9-16371e313404.png)  
 ## Cách chơi
 *Dùng chuột để điều khiển.*
 + Sang trái: Di chuyển con trỏ chuột lại gần nhân vật game từ bên phải.
