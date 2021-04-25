@@ -40,3 +40,5 @@ Vũ Hoàng Anh - 20020362
 
 Vượt chướng ngại vật và tránh tất cả quái vật để thoát khỏi đây.  
 ***LƯU Ý: Phải ăn hết vàng.***
+
+Video hướng dẫn cài đặt và demo [tại đây](https://drive.google.com/file/d/1kiuHsrrcHHo8XiQ_gYhfGUOPLAHL0_b0/view?usp=sharing)  
