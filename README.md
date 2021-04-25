@@ -36,7 +36,7 @@ Vũ Hoàng Anh - 20020362
 + Tạm dừng: ấn ‘P’.  
 + Restart: ấn ‘R’.  
 + Mở Tutorial: ấn 'T'.  
-+ Exit: ấn ‘ESC’.  
++ Trở lại menu: ấn ‘ESC’.  
 
 Vượt chướng ngại vật và tránh tất cả quái vật để thoát khỏi đây.  
 ***LƯU Ý: Phải ăn hết vàng.***
