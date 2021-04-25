@@ -1056,7 +1056,7 @@ void count_down(SDL_Rect& camera)
 {
 	std::stringstream count_down_;
 	count_down_.str("");
-	if (!timer_count_down.isStarted() && is_start_count_down)
+	if (!timer_count_down.isStarted() && is_start_count_down && !person.isDead())
 	{
 		timer_count_down.start();
 	}
@@ -1073,7 +1073,7 @@ void count_down(SDL_Rect& camera)
 	}
 	if (is_start_count_down && timer_count_down.isStarted())
 	{
-		if (MAX_TIME_COUNT_DOWN <= timer_count_down.getTime() / 1000)
+		if (MAX_TIME_COUNT_DOWN <= timer_count_down.getTime() / 1000 || person.isDead())
 		{
 			timer_count_down.stop();
 			is_start_count_down = false;
