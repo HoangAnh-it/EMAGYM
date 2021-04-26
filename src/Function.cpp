@@ -1080,8 +1080,11 @@ void count_down(SDL_Rect& camera)
 			person.setSurvival(false);
 			menu.set_is_selected_ok(false);
 			// loi ra khi win
-			tile[44][107]->setType(0);
-			tile[45][107]->setType(0);
+			if (!person.isDead())
+			{
+				tile[44][107]->setType(0);
+				tile[45][107]->setType(0);
+			}
 		}
 		else
 		{
