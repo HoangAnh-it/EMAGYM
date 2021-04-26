@@ -28,7 +28,7 @@ Vũ Hoàng Anh - 20020362
 ![Screenshot (64)](https://user-images.githubusercontent.com/79706035/115968182-c2e28280-a560-11eb-8ca9-16371e313404.png)  
 ## Cách chơi
 *Dùng chuột để điều khiển.*
-+ Sang trái: Di chuyển con trỏ chuột lại gần nhân vật game từ bên phải.
++ Sang trái: Di chuyển con trỏ chuột lại gần nhân vật game từ **bên phải.
 + Sang phải: Di chuyển con trỏ chuột lại gần nhân vật game từ bên trái.
 + Nhảy:  
     *Nhảy thấp: Di chuyển con trỏ chuột lại gần nhân vật game từ dưới.  
