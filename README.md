@@ -15,13 +15,13 @@ Vũ Hoàng Anh - 20020362
 + Chọn *setup* như dưới để bắt đầu quá trình cài đặt.  
 ![Screenshot (56)](https://user-images.githubusercontent.com/79706035/115964734-05e82a00-a550-11eb-9cfd-28ee3693d207.png)  
 + Sau đó sẽ có giao diện như sau, chọn *Next*.  
-![Screenshot (57)](https://user-images.githubusercontent.com/79706035/115964745-11d3ec00-a550-11eb-8d0d-2e3ffd28c6cb.png)  
+![Screenshot (67)](https://user-images.githubusercontent.com/79706035/116057149-b6694180-a6a8-11eb-82bb-8a24f2f77bd8.png)   
 + Chọn *Browse* để lấy vị trí lưu sau đó chọn *Next*.  
-![Screenshot (58)](https://user-images.githubusercontent.com/79706035/115964752-1bf5ea80-a550-11eb-8141-25bf6900adb7.png)  
+![Screenshot (68)](https://user-images.githubusercontent.com/79706035/116057212-c97c1180-a6a8-11eb-96bd-f3d06bccb6c8.png)     
 + Chọn tiếp *Next* để bắt đầu cài đặt. Nếu hệ thống hỏi, chọn *Yes*.  
-![Screenshot (59)](https://user-images.githubusercontent.com/79706035/115964766-29ab7000-a550-11eb-92eb-13aca01dbb1d.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/79706035/116057276-da2c8780-a6a8-11eb-9e1b-144271881d1f.png)  
 + Sau khi cài xong, chọn *Close* để quá trình hoàn tất.  
-![Screenshot (61)](https://user-images.githubusercontent.com/79706035/115964865-a50d2180-a550-11eb-869c-596d63a36c3a.png)
+![Screenshot (71)](https://user-images.githubusercontent.com/79706035/116057339-e9133a00-a6a8-11eb-930b-9306b30eee41.png)  
 3. Bước 3: Chơi.
 + Nhấn vào biểu tượng game trên Desktop hoặc vào folder vừa cài đặt và chọn vào file như dưới để chơi.  
 ![Screenshot (63)](https://user-images.githubusercontent.com/79706035/115964787-4647a800-a550-11eb-9ee5-c5206ca9bb87.png)
