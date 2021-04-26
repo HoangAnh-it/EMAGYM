@@ -28,11 +28,11 @@ Vũ Hoàng Anh - 20020362
 ![Screenshot (64)](https://user-images.githubusercontent.com/79706035/115968182-c2e28280-a560-11eb-8ca9-16371e313404.png)  
 ## Cách chơi
 *Dùng chuột để điều khiển.*
-+ Sang trái: Di chuyển con trỏ chuột lại gần nhân vật game từ **bên phải.
-+ Sang phải: Di chuyển con trỏ chuột lại gần nhân vật game từ bên trái.
++ Sang trái: Di chuyển con trỏ chuột lại gần nhân vật game từ **bên phải**.
++ Sang phải: Di chuyển con trỏ chuột lại gần nhân vật game từ **bên trái**.
 + Nhảy:  
-    *Nhảy thấp: Di chuyển con trỏ chuột lại gần nhân vật game từ dưới.  
-    *Nhảy cao: Di chuyển con trỏ chuột lại **sát** gần chân của nhân vật game từ trên xuống.  
+    *Nhảy thấp: Di chuyển con trỏ chuột lại gần nhân vật game từ **dưới lên**.  
+    *Nhảy cao: Di chuyển con trỏ chuột lại **sát** gần chân của nhân vật game từ **trên xuống**.  
 + Tạm dừng: ấn ‘P’.  
 + Restart: ấn ‘R’.  
 + Mở Tutorial: ấn 'T'.  
@@ -42,4 +42,4 @@ Vũ Hoàng Anh - 20020362
 Vượt chướng ngại vật và tránh tất cả quái vật để thoát khỏi đây.  
 ***LƯU Ý: Phải ăn hết vàng.***
 
-Video hướng dẫn cài đặt và demo [tại đây](https://www.youtube.com/watch?v=jcp6bXBTiOQ)  
+- Video hướng dẫn cài đặt và demo [tại đây](https://www.youtube.com/watch?v=jcp6bXBTiOQ)  
