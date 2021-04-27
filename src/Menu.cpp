@@ -89,7 +89,14 @@ void Menu::renderOption()
 	if (selected_option && is_selected_play_game())
 	{
 		image_menu[OPTION_RESTART].renderTexture(SCREEN_WIDTH - image_menu[OPTION_TUTORIAL].getWidth(), 50, NULL);
-		image_menu[OPTION_PAUSE].renderTexture(SCREEN_WIDTH - image_menu[OPTION_TUTORIAL].getWidth(), 76, NULL);
+		if (!pause)
+		{
+			image_menu[OPTION_PAUSE].renderTexture(SCREEN_WIDTH - image_menu[OPTION_TUTORIAL].getWidth(), 76, NULL);
+		}
+		else
+		{
+			image_menu[OPTION_UNPAUSE].renderTexture(SCREEN_WIDTH - image_menu[OPTION_TUTORIAL].getWidth(), 76, NULL);
+		}
 		image_menu[OPTION_TUTORIAL].renderTexture(SCREEN_WIDTH - image_menu[OPTION_TUTORIAL].getWidth(), 102, NULL);
 		image_menu[OPTION_EXIT].renderTexture(SCREEN_WIDTH - image_menu[OPTION_TUTORIAL].getWidth(), 128, NULL);
 	}
@@ -253,9 +260,16 @@ void Menu::handleEventMenu(SDL_Event* e)
 					play_music_1 = false;
 				}
 
-				if (checkMouseMotion(x, y, image_menu[OPTION_PAUSE].getBox()))
+				if (checkMouseMotion(x, y, image_menu[OPTION_PAUSE].getBox()) || checkMouseMotion(x, y, image_menu[OPTION_UNPAUSE].getBox()))
 				{
-					image_menu[OPTION_PAUSE].loadFromText("Pause (P)", temp_font, { 0,255,0 });
+					if (!pause)
+					{
+						image_menu[OPTION_PAUSE].loadFromText("Pause (P)", temp_font, { 0,255,0 });
+					}
+					else
+					{
+						image_menu[OPTION_UNPAUSE].loadFromText("UnPause(P)", temp_font, { 0,255,0 });
+					}
 					if (!play_music_2 && selected_option)
 					{
 						Mix_PlayChannel(-1, sound_effects[MUSIC_MOUSE_MOTION], 0);
@@ -264,7 +278,14 @@ void Menu::handleEventMenu(SDL_Event* e)
 				}
 				else
 				{
-					image_menu[OPTION_PAUSE].loadFromText("Pause (P)", temp_font, { 200,0,0 });
+					if (!pause)
+					{
+						image_menu[OPTION_PAUSE].loadFromText("Pause (P)", temp_font, { 200,0,0 });
+					}
+					else
+					{
+						image_menu[OPTION_UNPAUSE].loadFromText("UnPause(P)", temp_font, { 200,0,0 });
+					}
 					play_music_2 = false;
 				}
 
@@ -396,7 +417,7 @@ void Menu::handleEventMenu(SDL_Event* e)
 						selected_option = false;
 						Mix_PlayChannel(-1, sound_effects[MUSIC_MOUSE_SELECTED], 0);
 					}
-					else if (checkMouseMotion(x, y, image_menu[OPTION_PAUSE].getBox()))
+					else if (checkMouseMotion(x, y, image_menu[OPTION_PAUSE].getBox()) || checkMouseMotion(x, y, image_menu[OPTION_UNPAUSE].getBox()))
 					{
 						if(!pause) pause=true;
 						else pause=false;
