@@ -3,7 +3,7 @@ Vũ Hoàng Anh - 20020362
 INT2215 2 -Nhóm 3.
 
 ## Cách cài đặt game
-1. Bước 1: Tải file cài đặt game [tại đây](https://drive.google.com/file/d/1z7cK8Qb0vUpHucAuS4HHcTxncpQZde2F/view?usp=sharing)   
+1. Bước 1: Tải file install game [tại đây](https://drive.google.com/file/d/1z7cK8Qb0vUpHucAuS4HHcTxncpQZde2F/view?usp=sharing)   
 2. Bước 2: Cài đặt
 + Giải nén  
   Bấm *chuột phải* vào file vừa tải rồi chọn *Extract to install game*.  
