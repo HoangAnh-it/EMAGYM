@@ -42,5 +42,5 @@ INT2215 2 -Nhóm 3.
 
 Vượt chướng ngại vật và tránh tất cả quái vật để thoát khỏi đây.  
 ***LƯU Ý: Phải ăn hết vàng.***
-
+(học cơ bản tại [lazyfoo](https://lazyfoo.net/tutorials/SDL/))  
 - Video hướng dẫn cài đặt và demo [tại đây](https://www.youtube.com/watch?v=jcp6bXBTiOQ)  
