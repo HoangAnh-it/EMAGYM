@@ -45,5 +45,5 @@ Vượt chướng ngại vật và tránh tất cả quái vật để thoát kh
 
 - Video hướng dẫn cài đặt và demo [tại đây](https://www.youtube.com/watch?v=jcp6bXBTiOQ)  
 
-## Nguồn
+## Nguồn tham khảo
 + học cơ bản tại [lazyfoo](https://lazyfoo.net/tutorials/SDL/)
