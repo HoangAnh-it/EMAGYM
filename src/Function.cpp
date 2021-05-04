@@ -1039,6 +1039,7 @@ void resetValue()
 	person.setCountCoin(0);
 	person.setHeart(total_heart);
 	person.setWin(false);
+	person.setPositionSave({ 51,0 });
 	menu.setGameOver(false);
 	menu.set_is_selected_ok(false);
 	for (int i = 0; i < ls_Monster.size(); i++)
@@ -1073,7 +1074,7 @@ void count_down(SDL_Rect& camera)
 	}
 	if (is_start_count_down && timer_count_down.isStarted())
 	{
-		if (MAX_TIME_COUNT_DOWN <= timer_count_down.getTime() / 1000 || person.isDead())
+		if (MAX_TIME_COUNT_DOWN <= timer_count_down.getTime() / 1000 || person.isDead() )
 		{
 			timer_count_down.stop();
 			is_start_count_down = false;
