@@ -47,3 +47,4 @@ Vượt chướng ngại vật và tránh tất cả quái vật để thoát kh
 
 ## Nguồn tham khảo
 + học cơ bản tại [lazyfoo](https://lazyfoo.net/tutorials/SDL/)
+// test
